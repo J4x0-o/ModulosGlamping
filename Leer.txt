@@ -1,0 +1,15 @@
+Modulos Usuario y Servicio funcionales
+
+Se inicia sesion y se puede acceder a los crud's respectivos.
+
+El controlador AccountController y la carpeta Validations son solo para que el login funciones, es un login basico pero se tiene que pulir. 
+Se pueden quitar si asi lo desean, eliminado esos archivos y cambiando la configuracion en Views/Shared/layout.cshtml
+
+En el drive compartido por el profesor Carlos del segundo trimestre, hay varios documentos que sirven de guia para crear estos modulos
+yo use el documento "Crear un proyecto con EF con varias tablas" porque con este enseña a crear la Base de datos con una migracion, agilizando la creacion de la misma.
+
+Usar esta documentacion y apoyarse de la IA para resolver problemas puntuales. Si se quiere buenos resultados con la IA, hay que darle el máximo contexto posible.
+
+Creen una copia del repositorio y usen de guia los modulos ya creados, una vez tengan los models hechos pueden migrar y empezar a trabajar en sus modulos
+
+Hagan saber sus dudas para poder ayudarnos.
