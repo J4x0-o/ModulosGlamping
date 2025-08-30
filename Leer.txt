@@ -5,6 +5,8 @@ Se inicia sesion y se puede acceder a los crud's respectivos.
 El controlador AccountController y la carpeta Validations son solo para que el login funciones, es un login basico pero se tiene que pulir. 
 Se pueden quitar si asi lo desean, eliminado esos archivos y cambiando la configuracion en Views/Shared/layout.cshtml
 
+Para que funcione deben de eliminar la carpeta Migrations y crear una nueva migracion, luego actualizar la BD desde la consola
+
 En el drive compartido por el profesor Carlos del segundo trimestre, hay varios documentos que sirven de guia para crear estos modulos
 yo use el documento "Crear un proyecto con EF con varias tablas" porque con este enseña a crear la Base de datos con una migracion, agilizando la creacion de la misma.
 
